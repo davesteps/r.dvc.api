@@ -1,6 +1,6 @@
 # r.dvc.api
 
-Wrapper for the python [dvc api](https://dvc.org/doc/api-reference)
+Intended as a wrapper for the python [dvc api](https://dvc.org/doc/api-reference)
 
 ```
 require(r.dvc.api)
